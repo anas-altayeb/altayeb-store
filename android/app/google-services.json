@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "264762693703",
+    "project_id": "altayeb-store",
+    "storage_bucket": "altayeb-store.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264762693703:android:b603a81421e76d95523962",
+        "android_client_info": {
+          "package_name": "com.example.store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDamGKiyBiDiP9oLQUR4QknIDcrKQhTTeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
